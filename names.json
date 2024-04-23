@@ -1,11 +1,5 @@
 [
   {
-    "englishName": "Adar Tamir",
-    "hebrewName": "אדר תמיר",
-    "fileName": "ADAR_TAMIR.jpg",
-    "gender": "female"
-  },
-  {
     "englishName": "Liri Albag",
     "hebrewName": "לירי אלבג",
     "fileName": "ALBAG_LIRI.jpg",
@@ -42,22 +36,8 @@
     "gender": "female" 
   },
   {
-    "englishName": "Uriel Baruch",
-    "hebrewName": "אוריאל ברוך",
-    "fileName": "BARUCH_URIEL.jpg",
-    "gender": "male"
-  },
-
-
-  {
-    "englishName": "Nik Beizer",
-    "hebrewName": "ניק בייזר",
-    "fileName": "BEIZER_NIK.jpg",
-    "gender": "male"
-  },
-  {
     "englishName": "Ohad Ben Ami and Raz",
-    "hebrewName": "אוהד בן עמי ורז",
+    "hebrewName": "אוהד בן עמי",
     "fileName": "BEN_AMI_OHAD_AND_RAZ.jpg",
     "gender": "male"
   },
@@ -128,21 +108,9 @@
     "gender": "female"
   },
   {
-    "englishName": "Tal Chaimi",
-    "hebrewName": "טל חיימי", 
-    "fileName": "CHAIMI_TAL.jpg",
-    "gender": "female"
-  },  
-  {
     "englishName": "Dekel Sagui Chen",
     "hebrewName": "דקל שגיא חן",
     "fileName": "CHEN_DEKEL_SAGUI.jpg",
-    "gender": "male"
-  },
-  {
-    "englishName": "Etay Chen",
-    "hebrewName": "אתי חן",
-    "fileName": "CHEN_ETAY.jpg", 
     "gender": "male"
   },
   {
@@ -159,7 +127,7 @@
   },
   {
     "englishName": "Amiram Cooper",
-    "hebrewName": "עמירם כפר", 
+    "hebrewName": "עמירם קופר", 
     "fileName": "COOPER_AMIRAM.jpg",
     "gender": "male"
   },  
@@ -217,37 +185,12 @@
     "fileName": "GOLDBERG_POLIN_HERSH.jpg",
     "gender": "female"
   },
-    {
-    "englishName": "Hadar Goldin",
-    "hebrewName": "הדר גולדין",
-    "fileName": "GOLDIN_HADAR.jpg",
-    "gender": "male"
-  },
   {
     "englishName": "Romi Gonen",
     "hebrewName": "רומי גונן",
     "fileName": "GONEN_ROMI.jpg", 
     "gender": "female"
   },
-  {
-    "englishName": "Tamar Gutman",
-    "hebrewName": "תמר גוטמן",
-    "fileName": "GUTMAN_TAMAR.jpg",
-    "gender": "female"
-  },
-  {
-    "englishName": "Ran Gvili",
-    "hebrewName": "רן גבילי",
-    "fileName": "GVILI_RAN.jpg",
-    "gender": "male"
-  },
-  {
-    "englishName": "Gad Hagai",
-    "hebrewName": "גד חגי",
-    "fileName": "HAGGAI_GAD.jpg",
-    "gender": "male"
-  },
-
   {
     "englishName": "Maksym Harkin",
     "hebrewName": "מקסים חרקין",
@@ -288,18 +231,6 @@
     "englishName": "Segev Kalfon",
     "hebrewName": "סגב קלפון",
     "fileName": "KALFON_SEGEV.jpg", 
-    "gender": "male"
-  },
-  {
-    "englishName": "Elad Katzir",
-    "hebrewName": "אלעד כציר", 
-    "fileName": "KATZIR_ELAD.jpg",
-    "gender": "male"
-  },
-  {
-    "englishName": "Denil Kimenfeld", 
-    "hebrewName": "דניל קמנפלד",
-    "fileName": "KIMENFELD_DENIL.jpg",
     "gender": "male"
   },
   {
