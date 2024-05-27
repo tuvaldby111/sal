@@ -1,7 +1,8 @@
 [
   {
+
     "englishName": "Edan Alexander",
-    "hebrewName": "עדן אלכסנדר",
+    "hebrewName": "עידן אלכסנדר",
     "fileName": "ALEXANDER_EDAN.jpg",
     "gender": "male"
 
@@ -86,7 +87,7 @@
   },
   {
     "englishName": "Yagev Buchshtab",
-    "hebrewName": "יגאב בוכשטב",
+    "hebrewName": "יגב בוכשטב",
     "fileName": "BUCHSHTAB_YAGEV.jpg",
     "gender": "male"
   },
@@ -98,7 +99,7 @@
   },
   {
     "englishName": "Eliya Cohen",
-    "hebrewName": "אליעה כהן",
+    "hebrewName": "אליה כהן",
     "fileName": "COHEN_ELIYA.jpg",
     "gender": "male"
   },
@@ -140,7 +141,7 @@
   },
   {
     "englishName": "Farchan Elkadi",
-    "hebrewName": "פרחן אלקדי",
+    "hebrewName": "פרחאן אלקדי",
     "fileName": "ELKADI_FARCHAN.jpg",
     "gender": "female"
   },
@@ -440,7 +441,7 @@
   },
   {
     "englishName": "Matan Zangaoker",
-    "hebrewName": "מתן זנגווקר",
+    "hebrewName": "מתן צנגאור",
     "fileName": "ZANGAUKER_MATAN.jpg",
     "gender": "male"
   },
@@ -469,9 +470,25 @@
     "gender": "female"
   },
   {
+    "englishName": "Doron",
+    "hebrewName": "דורון",
+    "fileName": "doron.jpg",
+    "gender": "female"
+  },
+  {
+    "englishName": "Bifin",
+    "hebrewName": "ביפין",
+    "fileName": "bifin.jpg",
+    "gender": "male"
+  },
+
+
+  {
     "englishName": "emily tehila damari",
     "hebrewName": "אמילי תהילה דמארי",
     "fileName": "אמילי-דמארי.jpg",
     "gender": "female"
   }
+  
+
 ]
