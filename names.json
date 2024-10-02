@@ -4,6 +4,7 @@
     "englishName": "Edan Alexander",
     "hebrewName": "עידן אלכסנדר",
 
+
     "fileName": "ALEXANDER_EDAN.jpg",
     "gender": "male"
 
@@ -81,12 +82,6 @@
     "gender": "female"
   },
   {
-    "englishName": "Yagev Buchshtab",
-    "hebrewName": "יגב בוכשטב",
-    "fileName": "BUCHSHTAB_YAGEV.jpg",
-    "gender": "male"
-  },
-  {
     "englishName": "Dekel Sagui Chen",
     "hebrewName": "דקל שגיא חן",
     "fileName": "CHEN_DEKEL_SAGUI.jpg",
@@ -105,18 +100,6 @@
     "gender": "male"
   },
   {
-    "englishName": "Alex Dancig",
-    "hebrewName": "אלכס דנציג",
-    "fileName": "DANCYG_ALEX.jpg",
-    "gender": "male"
-  },
-  {
-    "englishName": "Ori Danino",
-    "hebrewName": "אורי דנינו",
-    "fileName": "DANINO_ORI.jpg",
-    "gender": "male"
-  },
-  {
     "englishName": "Evyatar David",
     "hebrewName": "אביתר דוד",
     "fileName": "DAVID_EVYATAR.jpg",
@@ -129,18 +112,6 @@
     "gender": "male"
   },
   {
-    "englishName": "Farchan Elkadi",
-    "hebrewName": "פרחאן אלקדי",
-    "fileName": "ELKADI_FARCHAN.jpg",
-    "gender": "female"
-  },
-  {
-    "englishName": "Carmel Gat",
-    "hebrewName": "כרמל גת",
-    "fileName": "GAT_CARMEL.jpg",
-    "gender": "female"
-  },
-  {
     "englishName": "Dalal Guy Gilboa",
     "hebrewName": "דלל גיא גלבוע",
     "fileName": "GILBOA_DALAL_GUY.jpg",
@@ -150,12 +121,6 @@
     "englishName": "Daniela Gilboa",
     "hebrewName": "דניאלה גלבוע",
     "fileName": "GILBOA_DANIELA.jpg",
-    "gender": "female"
-  },
-  {
-    "englishName": "Polin Hersh Goldberg",
-    "hebrewName": "פולין הרש גולדברג",
-    "fileName": "GOLDBERG_POLIN_HERSH.jpg",
     "gender": "female"
   },
   {
@@ -249,12 +214,6 @@
     "gender": "male"
   },
   {
-    "englishName": "Alex Lobanov",
-    "hebrewName": "אלכס לובנוב",
-    "fileName": "LOBANOV_ALEX.jpg",
-    "gender": "male"
-  },
-  {
     "englishName": "Asad Shlomo Mantzur",
     "hebrewName": "אסעד שלמה מנצור",
     "fileName": "MANTZUR_ASAD_SHLOMO.jpg",
@@ -276,12 +235,6 @@
     "englishName": "Gadi Moses",
     "hebrewName": "גדי משה",
     "fileName": "MOSES_GADI.jpg",
-    "gender": "male"
-  },
-  {
-    "englishName": "Abraham Munder",
-    "hebrewName": "אברהם מונדר",
-    "fileName": "MUNDER_ABRAHAM.jpg",
     "gender": "male"
   },
   {
@@ -313,12 +266,6 @@
     "hebrewName": "אבינתן אור",
     "fileName": "OR_AVINATAN.jpg",
     "gender": "male"
-  },
-  {
-    "englishName": "Almog Sarusi",
-    "hebrewName": "אלמוג שרוסי",
-    "fileName": "SARUSI_ALMOG.jpg",
-    "gender": "female"
   },
   {
     "englishName": "David Shalev",
@@ -391,12 +338,6 @@
     "hebrewName": "ארבל יהוד",
     "fileName": "YAHUD_ARBEL.jpg",
     "gender": "male"
-  },
-  {
-    "englishName": "Eden Yerushalmi",
-    "hebrewName": "עדן ירושלמי",
-    "fileName": "YERUSHALMI_EDEN.jpg",
-    "gender": "female"
   },
   {
     "englishName": "Matan Zangaoker",
