@@ -166,12 +166,6 @@
     "gender": "male"
   },
   {
-    "englishName": "Rimon Kirsht and Yagev Buchshtab",
-    "hebrewName": "רמון קירשט ויגאב בוכשטב",
-    "fileName": "KIRSHT_RIMON_AND_BUCHSHTAB_YAGEV.jpg",
-    "gender": "female"
-  },
-  {
     "englishName": "Ariel Konio",
     "hebrewName": "אריאל קוניו",
     "fileName": "KONIO_ARIEL.jpg",
@@ -205,12 +199,6 @@
     "englishName": "Oded Lifshitz",
     "hebrewName": "עודד ליפשיץ",
     "fileName": "LIFSHITZ_ODED.jpg",
-    "gender": "male"
-  },
-  {
-    "englishName": "Elyakim Livman",
-    "hebrewName": "אליקים ליבמן",
-    "fileName": "LIVMAN_ELYAKIM.jpg",
     "gender": "male"
   },
   {
@@ -268,18 +256,6 @@
     "gender": "male"
   },
   {
-    "englishName": "David Shalev",
-    "hebrewName": "דוד שלו",
-    "fileName": "SHALEV_DAVID.jpg",
-    "gender": "male"
-  },
-  {
-    "englishName": "Tal Shalev",
-    "hebrewName": "טל שלו",
-    "fileName": "SHALEV_TAL.jpg",
-    "gender": "female"
-  },
-  {
     "englishName": "Eli Sharabi",
     "hebrewName": "אלי שרעבי",
     "fileName": "SHARABI_ELI.jpg",
@@ -319,12 +295,6 @@
     "englishName": "Ohad Yahalomi",
     "hebrewName": "אוהד יהלומי",
     "fileName": "YAHALOMI_OHAD.jpg",
-    "gender": "male"
-  },
-  {
-    "englishName": "Dolev Yahod",
-    "hebrewName": "דולב יהוד",
-    "fileName": "YAHOD_DOLEV.jpg",
     "gender": "male"
   },
   {
