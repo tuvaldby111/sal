@@ -1,5 +1,11 @@
 [
   {
+    "englishName": "Liri Albag",
+    "hebrewName": "לירי אלבג",
+    "fileName": "ALBAG_LIRI.jpg",
+    "gender": "female"
+  },
+  {
     "englishName": "Edan Alexander",
     "hebrewName": "עידן אלכסנדר",
     "fileName": "ALEXANDER_EDAN.png",
@@ -22,12 +28,6 @@
     "hebrewName": "קרינה ארייב",
     "fileName": "ARIEV_KARINA.jpg",
     "gender": "female"
-  },
-  {
-    "englishName": "Ohad Ben Ami",
-    "hebrewName": "אוהד בן עמי",
-    "fileName": "ohad.jpg",
-    "gender": "male"
   },
   {
     "englishName": "Agam Berger",
@@ -294,22 +294,10 @@
     "gender": "male"
   },
   {
-    "englishName": "Yosef AlZayadni",
-    "hebrewName": "יוסף חמיס אלזאיאדני",
-    "fileName": "ZIYADANA_HAMIS_YUSSEF.jpg",
+    "englishName": "Ohad Ben Ami",
+    "hebrewName": "אוהד בן עמי",
+    "fileName": "ohad.jpg",
     "gender": "male"
-  },
-  {
-    "englishName": "Hamzah AlZayadni",
-    "hebrewName": "חמזה אלזאיאדני",
-    "fileName": "ZIYADANA_HAMZE.jpg",
-    "gender": "male"
-  },
-  {
-    "englishName": "Liri Albag",
-    "hebrewName": "לירי אלבג",
-    "fileName": "ALBAG_LIRI.jpg",
-    "gender": "female"
   },
   {
     "englishName": "Doron Steinbrecher",
