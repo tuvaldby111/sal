@@ -162,12 +162,6 @@
         "gender": "male"
     },
     {
-        "englishName": "Karina Ariev",
-        "hebrewName": "קרינה ארייב",
-        "fileName": "ARIEV_KARINA.jpg",
-        "gender": "female"
-    },
-    {
         "englishName": "Ohad Ben Ami",
         "hebrewName": "אוהד בן עמי",
         "fileName": "ohad.jpg",
@@ -258,18 +252,6 @@
         "gender": "female"
     },
     {
-        "englishName": "Daniel Galboa",
-        "hebrewName": "דניאלה גלבוע",
-        "fileName": "GILBOA_DANIELA.jpg",
-        "gender": "female"
-    },
-    {
-        "englishName": "Romi Gonen",
-        "hebrewName": "רומי גונן",
-        "fileName": "GONEN_ROMI.jpg",
-        "gender": "female"
-    },
-    {
         "englishName": "Maxim Herkin",
         "hebrewName": "מקסים הרקין",
         "fileName": "HARKIN_MAKSYM.jpg",
@@ -322,12 +304,6 @@
         "hebrewName": "בר אברהם קופרשטיין",
         "fileName": "KUPERSHTEIN_BAR.jpg",
         "gender": "male"
-    },
-    {
-        "englishName": "Naama Levy",
-        "hebrewName": "נעמה לוי",
-        "fileName": "LEVY_NAAMA.jpg",
-        "gender": "female"
     },
     {
         "englishName": "Or Levy",
@@ -437,19 +413,6 @@
         "fileName": "ZANGAUKER_MATAN.jpg",
         "gender": "male"
     },
-
-    {
-        "englishName": "Liri Albag",
-        "hebrewName": "לירי אלבג",
-        "fileName": "ALBAG_LIRI.jpg",
-        "gender": "female"
-    },
-    {
-        "englishName": "Doron Steinbrecher",
-        "hebrewName": "דורון שטיינברכר",
-        "fileName": "doron.jpg",
-        "gender": "female"
-    },
     {
         "englishName": "Bipin Joshi",
         "hebrewName": "ביפין ג'ושי",
@@ -467,12 +430,6 @@
         "hebrewName": "הישאם שעבאן א־סייד",
         "fileName": "hisham.webp",
         "gender": "male"
-    },
-    {
-        "englishName": "Emily Tehila Damari",
-        "hebrewName": "אמילי תהילה דמארי",
-        "fileName": "אמילי-דמארי.jpg",
-        "gender": "female"
     },
     {
         "englishName": "Watchara Sriaoun",
