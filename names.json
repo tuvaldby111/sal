@@ -1,11 +1,5 @@
 [
   {
-    "englishName": "Liri Albag",
-    "hebrewName": "לירי אלבג",
-    "fileName": "ALBAG_LIRI.jpg",
-    "gender": "female"
-  },
-  {
     "englishName": "Edan Alexander",
     "hebrewName": "עידן אלכסנדר",
     "fileName": "ALEXANDER_EDAN.png",
@@ -22,12 +16,6 @@
     "hebrewName": "מתן אָנְגרֵסט",
     "fileName": "ANGREST_MATAN.jpg",
     "gender": "male"
-  },
-  {
-    "englishName": "Karina Ariev",
-    "hebrewName": "קרינה ארייב",
-    "fileName": "ARIEV_KARINA.jpg",
-    "gender": "female"
   },
   {
     "englishName": "Agam Berger",
@@ -114,18 +102,6 @@
     "gender": "female"
   },
   {
-    "englishName": "Daniel Galboa",
-    "hebrewName": "דניאלה גלבוע",
-    "fileName": "GILBOA_DANIELA.jpg",
-    "gender": "female"
-  },
-  {
-    "englishName": "Romi Gonen",
-    "hebrewName": "רומי גונן",
-    "fileName": "GONEN_ROMI.jpg",
-    "gender": "female"
-  },
-  {
     "englishName": "Maxim Herkin",
     "hebrewName": "מקסים הרקין",
     "fileName": "HARKIN_MAKSYM.jpg",
@@ -178,12 +154,6 @@
     "hebrewName": "בר אברהם קופרשטיין",
     "fileName": "KUPERSHTEIN_BAR.jpg",
     "gender": "male"
-  },
-  {
-    "englishName": "Naama Levy",
-    "hebrewName": "נעמה לוי",
-    "fileName": "LEVY_NAAMA.jpg",
-    "gender": "female"
   },
   {
     "englishName": "Or Levy",
@@ -300,12 +270,6 @@
     "gender": "male"
   },
   {
-    "englishName": "Doron Steinbrecher",
-    "hebrewName": "דורון שטיינברכר",
-    "fileName": "doron.jpg",
-    "gender": "female"
-  },
-  {
     "englishName": "Bipin Joshi",
     "hebrewName": "ביפין ג'ושי",
     "fileName": "bifin.jpg",
@@ -322,12 +286,6 @@
     "hebrewName": "הישאם שעבאן א־סייד",
     "fileName": "hisham.webp",
     "gender": "male"
-  },
-  {
-    "englishName": "Emily Tehila Damari",
-    "hebrewName": "אמילי תהילה דמארי",
-    "fileName": "אמילי-דמארי.jpg",
-    "gender": "female"
   },
   {
     "englishName": "Watchara Sriaoun",
